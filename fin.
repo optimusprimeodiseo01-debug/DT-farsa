@@ -1,0 +1,15 @@
+Archivo
+
+0x13cf1a
+   |
+   |  tabla Elf64_Dyn coherente
+   |  28 entradas x 16 bytes
+   |
+0x13d0da
+   |
+   |  ceros
+   |
+0x13d0e8
+   |
+   |  fin declarado de PT_DYNAMIC
+   |
