@@ -1,0 +1,11 @@
+0x13cf2a
+  
+DT_NEEDED x7
+  
+DT_FLAGS
+DT_FLAGS_1
+DT_RELA
+...
+DT_STRTAB
+...
+DT_NULL
