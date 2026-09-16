@@ -1,0 +1,4 @@
+p_vaddr = 0x140f28
+
+"Hay una secuencia valida de Elf64_Dyn
+desplazada +2 respecto del p_offset declarado."
