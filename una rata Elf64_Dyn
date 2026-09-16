@@ -1,0 +1,13 @@
+PT_DYNAMIC ocupa exactamente:
+0x13cf28, 0x13d0e8
+
+declarado:
+0x13cf28 -------------------- 0x13d0e8
+          448 bytes
+
+tabla desplazada:
+    0x13cf2a -------------------- 0x13d0ea
+          448 bytes
+
+                    ^^^^^^^^^^^^^
+                    +2 bytes
