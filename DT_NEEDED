@@ -1,0 +1,6 @@
+DT_NEEDED
+    
+0x1198
+DT_STRTAB + 0x1198
+0x3eac
+"libandroid-support.so"
