@@ -1,0 +1,8 @@
+A: 0x13cda0 ........ 0x13ce68
+   registros de 16 bytes
+
+B: 0x13ce68 ........ 0x13cf1a
+   178 bytes de cero
+
+C: 0x13cf1a ........ 0x13d0cc
+   tabla Elf64_Dyn
