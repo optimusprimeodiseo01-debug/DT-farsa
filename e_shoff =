@@ -1,0 +1,20 @@
+                    ELF
+                     |
+          +----------+----------+
+          |                     |
+       e_shoff              EOF
+      0x13edd0            0x13f3c3
+          |                     |
+          |                     |
+          v                     v
+   tabla declarada         archivo termina
+          |                0x0d antes
+          |
+          v
+   bytes inicialmente cero
+          |
+        +0x30
+          |
+          v
+   estructura aparente
+   de Elf64_Shdr
