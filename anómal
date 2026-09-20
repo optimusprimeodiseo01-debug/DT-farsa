@@ -1,0 +1,23 @@
+ELF HEADER / PROGRAM HEADER
+        |
+        v
+PT_DYNAMIC
+offset = 0x13cf28
+vaddr  = 0x140f28
+size   = 0x1c0
+        |
+        | declara comienzo aquí
+        v
+     0x13cf28
+        |
+        | 00 00
+        |
+        v
+     0x13cf2a
+        |
+        | tabla dinámica coherente
+        v
+     DT_NEEDED
+     DT_NEEDED
+     ...
+     DT_NULL
