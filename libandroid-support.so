@@ -1,11 +1,6 @@
-0x13cf2a
-  
-DT_NEEDED x7
-  
-DT_FLAGS
-DT_FLAGS_1
-DT_RELA
-...
-DT_STRTAB
-...
-DT_NULL
+DT_STRTAB: 0x160c
+DT_RUNPATH: /data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/lib
+DT_NEEDED:
+  0x65c libandroid-support.so
+  0x672 libncursesw.so.6
+  0x607 libc.so
