@@ -1,0 +1,5 @@
+A:
+e_shoff -> +0x30 -> estructura observada
+
+B:
+estructura -> +0x30 -> sh_addralign
