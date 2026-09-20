@@ -1,0 +1,13 @@
+TABLA ELF DINAMICA
+
+Objeto                  VA        LOAD    FILE OFFSET   DENTRO
+----------------------------------------------------------------
+DT_STRTAB                ...       ...       ...          OK
+DT_SYMTAB                ...       ...       ...          OK
+DT_GNU_HASH              ...       ...       ...          OK
+DT_RELA                  ...       ...       ...          OK
+DT_JMPREL                ...       ...       ...          OK
+DT_PLTGOT                ...       ...       ...          OK
+DT_VERSYM                ...       ...       ...          OK
+DT_VERNEED                ...       ...       ...          OK
+DT_FINI_ARRAY             ...       ...       ...          OK
