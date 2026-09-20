@@ -1,0 +1,9 @@
+SHOFF
+ 
+0x13edd0
+ 
+ + 0x30 bytes cero
+ 
+0x13ee00
+ 
+datos que tienen forma de Elf64_Shdr
